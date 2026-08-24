@@ -1,0 +1,35 @@
+@charset 'utf-8';
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+nav {
+    text-align: center;
+    color: white;
+}
+
+.centralizado {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+header {
+    background-color: black;
+    color: white;
+    margin: none;
+}
